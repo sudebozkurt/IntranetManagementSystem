@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+h1, h3 {
+    color: #333;
+}
+
+.navbar {
+    margin-bottom: 20px;
+}
+
+.card {
+    border-radius: 10px;
+}
+.navbar-brand {
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+
+.navbar .nav-link {
+    font-size: 1rem;
+    margin-right: 10px;
+    color: #f8f9fa !important;
+}
+
+.navbar .nav-link:hover {
+    background-color: #007bff;
+    border-radius: 5px;
+}
